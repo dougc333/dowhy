@@ -10,4 +10,6 @@ pydot>=1.4
 pytest
 econml
 nbformat
-
+nbconvert
+ipykernel
+b

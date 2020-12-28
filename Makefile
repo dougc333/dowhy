@@ -1,7 +1,7 @@
 init:
 	pip install -r requirements.txt  
 test:
-	py.test tests
+	py.test -s  tests
 check: 
 	python setup.py check
 sdist:
